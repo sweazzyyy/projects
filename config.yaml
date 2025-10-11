@@ -1,0 +1,3 @@
+vfs_path: "./vfs"
+log_path: "./log.csv"
+script_path: "./startup_final.sh"

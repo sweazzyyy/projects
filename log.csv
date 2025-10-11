@@ -1,0 +1,99 @@
+timestamp,command,success,error_message,username
+2025-10-11T13:10:44.616013,ls,True,,sweaa
+2025-10-11T13:10:44.618273,cd /,True,,sweaa
+2025-10-11T13:10:44.621288,cd etc,True,,sweaa
+2025-10-11T13:10:44.622096,ls,True,,sweaa
+2025-10-11T13:10:44.624165,cd ..,True,,sweaa
+2025-10-11T13:10:44.628029,unknowncmd,False,Ошибка: неизвестная команда 'unknowncmd',sweaa
+2025-10-11T13:15:30.037617,whoami,True,,sweaa
+2025-10-11T13:15:30.038911,who,True,,sweaa
+2025-10-11T13:15:30.041308,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:15:30.042726,rm /etc/motd,True,,sweaa
+2025-10-11T13:15:30.045266,rm /etc/motd  # повторное удаление (ошибка),False,Файл не найден: /etc/motd,sweaa
+2025-10-11T13:17:05.752585,whoami,True,,sweaa
+2025-10-11T13:17:05.753838,who,True,,sweaa
+2025-10-11T13:17:05.758307,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:17:05.760190,rm /etc/motd,True,,sweaa
+2025-10-11T13:17:05.762154,rm /etc/motd  # повторное удаление (ошибка),False,Файл не найден: /etc/motd,sweaa
+2025-10-11T13:18:14.231054,whoami,True,,sweaa
+2025-10-11T13:18:14.232602,who,True,,sweaa
+2025-10-11T13:18:14.235434,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:18:14.237480,rm /etc/motd,True,,sweaa
+2025-10-11T13:18:14.238247,history,True,,sweaa
+2025-10-11T13:18:14.238408,exit,True,,sweaa
+2025-10-11T13:20:35.663814,whoami,True,,sweaa
+2025-10-11T13:20:35.664907,who,True,,sweaa
+2025-10-11T13:20:35.667817,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:20:35.669091,rm /etc/motd,True,,sweaa
+2025-10-11T13:20:35.670384,history,True,,sweaa
+2025-10-11T13:20:35.670565,exit,True,,sweaa
+2025-10-11T13:22:46.130863,ls,True,,sweaa
+2025-10-11T13:22:46.132747,cd /,True,,sweaa
+2025-10-11T13:22:46.134586,cd etc,True,,sweaa
+2025-10-11T13:22:46.135112,ls,True,,sweaa
+2025-10-11T13:22:46.136953,cd ..,True,,sweaa
+2025-10-11T13:22:46.139669,"cd ""home""",True,,sweaa
+2025-10-11T13:22:46.141863,cd ..,True,,sweaa
+2025-10-11T13:22:46.145672,"cd ""незакрытая кавычка""",False,Директория не найдена: незакрытая кавычка,sweaa
+2025-10-11T13:23:27.079074,ls,True,,sweaa
+2025-10-11T13:23:27.081029,cd /,True,,sweaa
+2025-10-11T13:23:27.082858,cd etc,True,,sweaa
+2025-10-11T13:23:27.083281,ls,True,,sweaa
+2025-10-11T13:23:27.085062,cd ..,True,,sweaa
+2025-10-11T13:23:27.087238,"cd ""home""",True,,sweaa
+2025-10-11T13:23:27.089273,cd ..,True,,sweaa
+2025-10-11T13:23:27.093332,"cd ""незакрытая кавычка",False,Ошибка: Ошибка синтаксиса: незакрытые кавычки,sweaa
+2025-10-11T13:23:37.774785,ls,True,,sweaa
+2025-10-11T13:23:37.776779,cd /,True,,sweaa
+2025-10-11T13:23:37.778663,cd etc,True,,sweaa
+2025-10-11T13:23:37.779173,ls,True,,sweaa
+2025-10-11T13:23:37.781090,cd ..,True,,sweaa
+2025-10-11T13:23:37.784661,"cd ""home""",True,,sweaa
+2025-10-11T13:23:37.787198,cd ..,True,,sweaa
+2025-10-11T13:23:37.793349,vfs-info,True,,sweaa
+2025-10-11T13:23:37.793925,ls /,True,,sweaa
+2025-10-11T13:23:37.794671,whoami,True,,sweaa
+2025-10-11T13:23:37.796477,who,True,,sweaa
+2025-10-11T13:23:37.799219,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:23:37.801293,rm /etc/motd,True,,sweaa
+2025-10-11T13:24:45.234157,ls,True,,sweaa
+2025-10-11T13:24:45.236138,cd /,True,,sweaa
+2025-10-11T13:24:45.238651,cd etc,True,,sweaa
+2025-10-11T13:24:45.239217,ls,True,,sweaa
+2025-10-11T13:24:45.241517,cd ..,True,,sweaa
+2025-10-11T13:24:45.243474,"cd ""home""",True,,sweaa
+2025-10-11T13:24:45.245801,cd ..,True,,sweaa
+2025-10-11T13:24:45.251076,vfs-info,True,,sweaa
+2025-10-11T13:24:45.251447,ls /,True,,sweaa
+2025-10-11T13:24:45.252198,whoami,True,,sweaa
+2025-10-11T13:24:45.253349,who,True,,sweaa
+2025-10-11T13:24:45.256542,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:24:45.258224,rm /etc/motd,True,,sweaa
+2025-10-11T13:24:45.259001,history,True,,sweaa
+2025-10-11T13:25:52.311707,"""ls""",True,,sweaa
+2025-10-11T13:25:52.312321,ls,True,,sweaa
+2025-10-11T13:25:52.314561,"""cd""",False,Использование: cd <путь>,sweaa
+2025-10-11T13:26:18.066611,"""""ls""""",True,,sweaa
+2025-10-11T13:26:18.067195,ls,True,,sweaa
+2025-10-11T13:26:18.069472,"""cd""",False,Использование: cd <путь>,sweaa
+2025-10-11T13:26:39.273680,"""(ls)""",False,Ошибка: неизвестная команда '(ls)',sweaa
+2025-10-11T13:36:45.571189,"echo ""ls >""",True,,sweaa
+2025-10-11T13:36:45.571625,ls,True,,sweaa
+2025-10-11T13:36:45.573457,"""cd""",False,Использование: cd <путь>,sweaa
+2025-10-11T13:37:16.957400,ls,True,,sweaa
+2025-10-11T13:37:16.959446,"""cd""",False,Использование: cd <путь>,sweaa2025-10-11T13:38:37.829833,ls,True,,sweaa
+2025-10-11T13:38:37.831958,"""cd""",False,Использование: cd <путь>,sweaa
+2025-10-11T13:38:54.880335,ls,True,,sweaa
+2025-10-11T13:38:54.883084,cd /,True,,sweaa
+2025-10-11T13:38:54.885265,cd etc,True,,sweaa
+2025-10-11T13:38:54.886108,ls,True,,sweaa
+2025-10-11T13:38:54.888321,cd ..,True,,sweaa
+2025-10-11T13:38:54.890330,"cd ""home""",True,,sweaa
+2025-10-11T13:38:54.891956,cd ..,True,,sweaa
+2025-10-11T13:38:54.896055,vfs-info,True,,sweaa
+2025-10-11T13:38:54.896391,ls /,True,,sweaa
+2025-10-11T13:38:54.896855,whoami,True,,sweaa
+2025-10-11T13:38:54.897796,who,True,,sweaa
+2025-10-11T13:38:54.900725,chown admin /etc/motd,True,,sweaa
+2025-10-11T13:38:54.902348,rm /etc/motd,True,,sweaa
+2025-10-11T13:38:54.902888,history,True,,sweaa
