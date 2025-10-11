@@ -97,3 +97,56 @@ timestamp,command,success,error_message,username
 2025-10-11T13:38:54.900725,chown admin /etc/motd,True,,sweaa
 2025-10-11T13:38:54.902348,rm /etc/motd,True,,sweaa
 2025-10-11T13:38:54.902888,history,True,,sweaa
+2025-10-11T16:12:59.095833,ls,True,,sweaa
+2025-10-11T16:12:59.100021,cd /,True,,sweaa
+2025-10-11T16:12:59.104863,cd etc,True,,sweaa
+2025-10-11T16:12:59.105921,ls,True,,sweaa
+2025-10-11T16:12:59.110992,cd ..,True,,sweaa
+2025-10-11T16:12:59.116083,"cd ""home""",True,,sweaa
+2025-10-11T16:12:59.120293,cd ..,True,,sweaa
+2025-10-11T16:12:59.129022,vfs-info,True,,sweaa
+2025-10-11T16:12:59.129783,ls /,True,,sweaa
+2025-10-11T16:12:59.131548,whoami,True,,sweaa
+2025-10-11T16:12:59.134068,who,True,,sweaa
+2025-10-11T16:12:59.139299,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:12:59.142213,rm /etc/motd,True,,sweaa
+2025-10-11T16:12:59.143439,history,True,,sweaa
+2025-10-11T16:13:28.654859,ls,True,,sweaa
+2025-10-11T16:13:28.659548,cd /,True,,sweaa
+2025-10-11T16:13:28.664198,cd etc,True,,sweaa
+2025-10-11T16:13:28.665743,ls,True,,sweaa
+2025-10-11T16:13:28.671048,cd ..,True,,sweaa
+2025-10-11T16:13:28.674804,"cd ""home""",True,,sweaa
+2025-10-11T16:13:28.679317,cd ..,True,,sweaa
+2025-10-11T16:13:28.686629,vfs-info,True,,sweaa
+2025-10-11T16:13:28.687410,ls /,True,,sweaa
+2025-10-11T16:13:28.688984,whoami,True,,sweaa
+2025-10-11T16:13:28.691745,who,True,,sweaa
+2025-10-11T16:13:28.697605,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:13:28.701108,rm /etc/motd,True,,sweaa
+2025-10-11T16:14:36.560597,ls,True,,sweaa
+2025-10-11T16:14:36.565593,cd /,True,,sweaa
+2025-10-11T16:14:36.569165,cd etc,True,,sweaa
+2025-10-11T16:14:36.570405,ls,True,,sweaa
+2025-10-11T16:14:36.574744,cd ..,True,,sweaa
+2025-10-11T16:14:36.579220,"cd ""home""",True,,sweaa
+2025-10-11T16:14:36.584545,cd ..,True,,sweaa
+2025-10-11T16:14:36.595594,vfs-info,True,,sweaa
+2025-10-11T16:14:36.596430,ls /,True,,sweaa
+2025-10-11T16:14:36.598151,whoami,True,,sweaa
+2025-10-11T16:14:36.601084,who,True,,sweaa
+2025-10-11T16:14:36.609067,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:14:36.612194,rm /etc/motd,True,,sweaa
+2025-10-11T16:15:35.106546,ls,True,,sweaa
+2025-10-11T16:15:35.110365,cd /,True,,sweaa
+2025-10-11T16:15:35.117210,cd etc,True,,sweaa
+2025-10-11T16:15:35.118609,ls,True,,sweaa
+2025-10-11T16:15:35.122202,cd ..,True,,sweaa
+2025-10-11T16:15:35.127227,"cd ""home""",True,,sweaa
+2025-10-11T16:15:35.131575,cd ..,True,,sweaa
+2025-10-11T16:15:35.140365,vfs-info,True,,sweaa
+2025-10-11T16:15:35.141411,ls /,True,,sweaa
+2025-10-11T16:15:35.143099,whoami,True,,sweaa
+2025-10-11T16:15:35.145467,who,True,,sweaa
+2025-10-11T16:15:35.151085,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:15:35.153664,rm /etc/motd,True,,sweaa

@@ -23,7 +23,7 @@ class VFS:
                 "content": {
                     "home": {"type": "directory", "content": {}},
                     "etc": {"type": "directory", "content": {
-                        "motd": {"type": "file", "content": "Welcome to VFS Emulator!"}
+                        "motd": {"type": "file", "content": "Добро пожаловать в VFS эмульятор!"}
                     }},
                     "bin": {"type": "directory", "content": {}},
                     "tmp": {"type": "directory", "content": {}}

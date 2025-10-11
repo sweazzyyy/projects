@@ -14,6 +14,6 @@ who
 chown admin /etc/motd
 rm /etc/motd
 
-history
+#history
 #exit
 #python main_final.py --vfs-path ./vfs --log-path ./log.csv --script-path ./startup_final.sh
