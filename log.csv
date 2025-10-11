@@ -189,3 +189,42 @@ timestamp,command,success,error_message,username
 2025-10-11T16:31:55.244942,who,True,,sweaa
 2025-10-11T16:31:55.248912,chown admin /etc/motd,True,,sweaa
 2025-10-11T16:31:55.252563,rm /etc/motd,True,,sweaa
+2025-10-11T16:32:58.034241,ls,True,,sweaa
+2025-10-11T16:32:58.039228,cd /,True,,sweaa
+2025-10-11T16:32:58.043098,cd etc,True,,sweaa
+2025-10-11T16:32:58.044623,ls,True,,sweaa
+2025-10-11T16:32:58.049081,cd ..,True,,sweaa
+2025-10-11T16:32:58.055136,"cd ""home""",True,,sweaa
+2025-10-11T16:32:58.059710,cd ..,True,,sweaa
+2025-10-11T16:32:58.069703,vfs-info,True,,sweaa
+2025-10-11T16:32:58.070505,ls /,True,,sweaa
+2025-10-11T16:32:58.072075,whoami,True,,sweaa
+2025-10-11T16:32:58.074935,who,True,,sweaa
+2025-10-11T16:32:58.079083,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:32:58.083080,rm /etc/motd,True,,sweaa
+2025-10-11T16:33:20.048028,ls,True,,sweaa
+2025-10-11T16:33:20.052102,cd /,True,,sweaa
+2025-10-11T16:33:20.056360,cd etc,True,,sweaa
+2025-10-11T16:33:20.057257,ls,True,,sweaa
+2025-10-11T16:33:20.060809,cd ..,True,,sweaa
+2025-10-11T16:33:20.066172,"cd ""home""",True,,sweaa
+2025-10-11T16:33:20.070368,cd ..,True,,sweaa
+2025-10-11T16:33:20.079011,vfs-info,True,,sweaa
+2025-10-11T16:33:20.080090,ls /,True,,sweaa
+2025-10-11T16:33:20.081607,whoami,True,,sweaa
+2025-10-11T16:33:20.083798,who,True,,sweaa
+2025-10-11T16:33:20.088943,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:33:20.092283,rm /etc/motd,True,,sweaa
+2025-10-11T16:33:58.835956,ls,True,,sweaa
+2025-10-11T16:33:58.840329,cd /,True,,sweaa
+2025-10-11T16:33:58.844833,cd etc,True,,sweaa
+2025-10-11T16:33:58.846666,ls,True,,sweaa
+2025-10-11T16:33:58.849719,cd ..,True,,sweaa
+2025-10-11T16:33:58.854867,"cd ""home""",True,,sweaa
+2025-10-11T16:33:58.859219,cd ..,True,,sweaa
+2025-10-11T16:33:58.867892,vfs-info,True,,sweaa
+2025-10-11T16:33:58.868644,ls /,True,,sweaa
+2025-10-11T16:33:58.870160,whoami,True,,sweaa
+2025-10-11T16:33:58.873218,who,True,,sweaa
+2025-10-11T16:33:58.880366,chown admin /etc/motd,True,,sweaa
+2025-10-11T16:33:58.882991,rm /etc/motd,True,,sweaa
