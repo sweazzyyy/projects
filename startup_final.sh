@@ -16,4 +16,4 @@ rm /etc/motd
 
 #history
 #exit
-#python main_final.py --vfs-path ./vfs --log-path ./log.csv --script-path ./startup_final.sh
+#"Команда для запуска эмулятора со стартовым скриптом" python main_final.py --vfs-path ./vfs --log-path ./log.csv --script-path ./startup_final.sh
